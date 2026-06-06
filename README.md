@@ -1,0 +1,1 @@
+# MSc_Nastran_Solving_Error67
